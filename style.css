@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+}
+
+.contact-info a {
+    text-decoration: none;
+    color: #0077B5;
+}
+
+.skills ul,
+.interests ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.skills ul li,
+.interests ul li {
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+.skills ul {
+    list-style: disc;
+}
+
+.interests ul {
+    list-style: circle;
+}
+
+.experience,
+.education {
+    margin-bottom: 20px;
+}
